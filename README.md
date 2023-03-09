@@ -22,7 +22,17 @@ Then, run the following command:
 
 ``python bot.py``
 
+
+
+https://user-images.githubusercontent.com/106667410/224030603-2cc600b0-de10-4e41-ac4c-eab4a4b87d41.mov
+
+
+
 This will start the bot and make it available to receive messages from users. To send a command to the remote server, simply send a text message to the bot with the command as the message text. The bot will execute the command on the server and send the output back to you as a reply message.
 
 ### License
 This bot is released under the MIT License. See the LICENSE file for details.
+
+https://user-images.githubusercontent.com/106667410/224031276-d3214e9b-ebfc-441c-9a0e-56fdcdad5782.mov
+
+
